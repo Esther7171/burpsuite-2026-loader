@@ -1,6 +1,6 @@
 # ==========================================
 # Burp Suite Automated Setup Script (CLEAN)
-# Author: CERT Research Use
+# Author: Deathesther7171
 # ==========================================
 
 # Speed up downloads
